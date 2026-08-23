@@ -21,7 +21,7 @@
 
 - 🎯 Goals: Check off my bucket list 😛
 
-- 🎲 And ... I play 🎸 guitar and ♟ chess online
+- 🎲 And ... I paint, draw, and play ♟ chess online
 
 - ⚡ Fun fact **I am hilarious** (I think)
 
