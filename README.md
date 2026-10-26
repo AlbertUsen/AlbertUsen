@@ -1,40 +1,54 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE1MnUzOXcxNHg0MHpxN2F2b2U5bnF3NjF1amcwMjRjOGoyb2U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center"></div>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE1MnUzOXcxNHg0MHpxN2F2b2U5bnF3NjF1amcwMjRjOGoyb2U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center">
 
-<h1 align="center"> Hola 👋, Yo soy Albert Usen </h1>
-<h3 align="center">A Passionate Full-stack Web developer</h3>
+# Hi 👋, I'm Albert Usen
+  ### Frontend & Software Engineer | Full-Stack Web Developer
+
+  Developing modern web applications, interactive UIs, and automated software tools.
+</div>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=albertusen" alt="albertusen" /></a> </p> -->
 
  <br>
 
 
-- 🔭 I’m currently working on an E-waste project [CYCLE](https://albertusen.github.io/Cycle/)
+- 💻 **Core Focus:** Building fast, scalable frontend architectures with **React** & **Next.js**, backed by **PHP** & **MySQL**.
 
-- 🌱 I’m currently learning **React**, **Spanish**, **Japanese**
+- 🛠️ **Current Project:** Building [Job-Scanner](https://github.com/AlbertUsen/Job-Scanner) — an automated tech job aggregator platform.
 
-- 👯 I’m looking to collaborate on an E-commerce project for college students **"THE PLUG"**
+- ♻️ **Sustainability:** Developing [CYCLE](https://github.com/AlbertUsen/CYCLE) — a local e-waste reduction and recycling platform.
+
+- 📧 **Reach Me:** [usenalbert21@gmail.com](mailto:usenalbert21@gmail.com)
+
+- 🎯 **Goals:** Check off my bucket list 😛
+
+- 🎨 **Creative Interests:** Painting, digital media editing, learning Japanese and playing chess online. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlbertUsen](https://github.com/AlbertUsen)
-
-- 📫 How to reach me **usenalbert21@gmail.com**
-
-- 🎯 Goals: Check off my bucket list 😛
-
-- 🎲 And ... I paint, draw, and play ♟ chess online
 
 - ⚡ Fun fact **I am hilarious** (I think)
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmt1b24xM25jYTNxa2M5YjFvdHcxNHZjdjdqc2JodjNsMGw2MnhlMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/200.webp">
+---
 
- <br>
+### 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/albieeu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="albieeu" height="30" width="40" /></a>
-</p>
+**Frontend & Styling**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+**Backend & Database**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertusen&show_icons=true&locale=en&layout=compact" alt="albertusen" /></p>
+**Developer Environment**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
