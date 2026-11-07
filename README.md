@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXE1MnUzOXcxNHg0MHpxN2F2b2U5bnF3NjF1amcwMjRjOGoyb2U1ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" align="center">
 
 # Hi 👋, I'm Albert Usen
-  ### Frontend & Software Engineer | Full-Stack Web Developer
+  ### Software Engineer | Full-Stack Web Developer
 
   Developing modern web applications, interactive UIs, and automated software tools.
 </div>
